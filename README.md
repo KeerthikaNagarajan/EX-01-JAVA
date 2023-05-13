@@ -34,4 +34,4 @@ public class Ex1
 <img width="224" alt="image" src="https://github.com/KeerthikaNagarajan/Java-Ex-1/assets/93427089/e0ded2a0-7874-4837-9830-5409af3973a2">
 
 ### Result:
-The java program to print the Arithmetic operations like Addiction, Subtraction, Division, Remainder of two numbers was successful done.
+The java program to print the Arithmetic operations like Addiction, Subtraction, Division, Remainder of two numbers was successfully done.
