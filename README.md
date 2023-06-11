@@ -11,7 +11,7 @@ To write a java program to print the Arithmetic operations like Addiction, Subtr
 * Print the output on display.
 
 ### PROGRAM:
-```
+```java
 import java.util.Scanner;
 public class Ex1
 {
